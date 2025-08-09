@@ -38,13 +38,6 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimarif&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimarif&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimarif&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌍 Let’s Connect  
 [🌐 Portfolio](https://ibrahimarif.dev) | [💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/) | [✉️ Email](mailto:ibrahim@example.com)  
 
