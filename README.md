@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Ibrahim Arif  
+# 👋 Hi, I'm Ibrahim Arif  
 
 🚀 **Software Engineer | Mobile App Developer | Python Expert | AI Enthusiast**  
 Founder & Team Lead at **INFILP LLC**, building **scalable, secure, and user-friendly mobile applications** for clients across the globe.  
