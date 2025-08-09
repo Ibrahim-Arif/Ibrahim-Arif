@@ -16,15 +16,6 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 
 ---
 
-## 📌 Featured Projects
-- **FrontLeft** – Social platform for discovering and sharing events with friends.  
-- **WOBO** – Fitness venue booking app with real-time availability and secure payments.  
-- **VetEye** – AI-powered veterinary ophthalmology diagnostic tool.  
-- **Smart Home Surveillance System** – Lightweight, edge-based anomaly detection for domestic CCTV.  
-- **DressPlaner** – Full digital ecosystem for a B2B fashion company (admin dashboard, CRM, mobile apps, partner portals).  
-
----
-
 ## 📚 Research
 - **Smart Surveillance Dataset**: Published on Kaggle, merging UCF Crime dataset with custom ‘fence climbing’ footage for AI research.  
 - Authoring an **IEEE conference paper** on lightweight anomaly detection for edge devices.  
@@ -40,5 +31,3 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 
 ## 🌍 Let’s Connect  
 [🌐 Portfolio](https://ibrahimarif.dev) | [💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/) | [✉️ Email](mailto:ibrahimarif@infilp.com)  
-
-⭐ _If you like my work, consider giving a star to my repositories!_
