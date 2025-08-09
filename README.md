@@ -8,9 +8,9 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 ---
 
 ## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, TypeScript, Swift, Kotlin  
-- **Mobile Development**: React Native (Expo & CLI), SwiftUI, Android Native  
-- **Backend**: Node.js, Django, Flask, Firebase, MongoDB, PostgreSQL  
+- **Languages**: Python, JavaScript, TypeScript. 
+- **Mobile Development**: React Native & Expo
+- **Backend**: Node.js, Flask, Firebase, MongoDB, PostgreSQL  
 - **AI & ML**: TensorFlow, PyTorch, OpenCV, Edge AI on NVIDIA Jetson Nano  
 - **Architecture & Tools**: MVVM, Clean Architecture, REST APIs, GraphQL, AWS, GCP, Stripe, In-App Purchases, GitHub Actions  
 
@@ -39,6 +39,6 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 ---
 
 ## 🌍 Let’s Connect  
-[🌐 Portfolio](https://ibrahimarif.dev) | [💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/) | [✉️ Email](mailto:ibrahim@example.com)  
+[🌐 Portfolio](https://ibrahimarif.dev) | [💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/) | [✉️ Email](mailto:ibrahimarif@infilp.com)  
 
 ⭐ _If you like my work, consider giving a star to my repositories!_
