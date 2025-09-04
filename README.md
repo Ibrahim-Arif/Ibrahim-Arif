@@ -7,25 +7,9 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 
 ---
 
-## 🛠 Tech Stack
-- **Languages**: Python, JavaScript, TypeScript. 
-- **Mobile Development**: React Native & Expo
-- **Backend**: Node.js, Flask, Firebase, MongoDB, PostgreSQL  
-- **AI & ML**: TensorFlow, PyTorch, OpenCV, Edge AI on NVIDIA Jetson Nano  
-- **Architecture & Tools**: MVVM, Clean Architecture, REST APIs, GraphQL, AWS, GCP, Stripe, In-App Purchases, GitHub Actions  
-
----
-
 ## 📚 Research
 - **Smart Surveillance Dataset**: Published on Kaggle, merging UCF Crime dataset with custom ‘fence climbing’ footage for AI research.  
 - Authoring an **IEEE conference paper** on lightweight anomaly detection for edge devices.  
-
----
-
-## 🏆 Highlights
-- **Winner** – SOFTEC 2022 Coding Competition  
-- **Winner** – LUMS Pitch Deck & MVP Competition  
-- Invited as **Alumnus Guest** by COMSATS University Islamabad.  
 
 ---
 
