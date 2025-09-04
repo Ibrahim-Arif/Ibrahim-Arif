@@ -8,4 +8,4 @@ I specialize in **Python development**, **mobile architecture design**, and **in
 ---
 
 ## 🌍 Let’s Connect  
-[🌐 Portfolio](https://ibrahimarif.dev)    |    [💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/)    |    [✉️ Email](mailto:ibrahimarif@infilp.com)    |    [🏆 LeetCode](https://leetcode.com/u/ibrahimarif/)
+[💼 LinkedIn](https://www.linkedin.com/in/ibrahim-arif/), [🏆 LeetCode](https://leetcode.com/u/ibrahimarif/), [🌐 Portfolio](https://ibrahimarif.dev), [✉️ Email](mailto:ibrahimarif@infilp.com)
